@@ -9,3 +9,4 @@ Click the link above to open the dataset on Google Drive.
 
 <img src="image/categories.png" alt="Categories Image" width="300"/>
 
+*For educational and research purposes only.*
