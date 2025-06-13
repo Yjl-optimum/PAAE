@@ -7,4 +7,5 @@ We propose a clear, human-centric repetitive fitness action test dataset, **Rep-
 
 Click the link above to open the dataset on Google Drive.
 
-<img src="image/categories.png" alt="Categories Image" width="300"/>
+<img src="image/category.png" alt="Categories Image" width="300"/>
+<img src="image/Visual examples.png" alt="Example Image" width="300"/>
