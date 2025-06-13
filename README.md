@@ -11,4 +11,4 @@ Click the link above to open the dataset on Google Drive.
 <img src="image/Visual examples.png" alt="Example Image" width="600" height="auto"/>
 
 ## Diffusion-based Generation of Skeleton Sequences
-[two-stage generation proces](https://github.com/li-ronghui/LODGE)
+[two-stage generation process](https://github.com/li-ronghui/LODGE)
