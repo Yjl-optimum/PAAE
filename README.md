@@ -12,4 +12,5 @@ Click the link above to open the dataset on Google Drive.
 
 ## Diffusion-based Generation of Skeleton Sequences
 [two-stage generation process](https://github.com/li-ronghui/LODGE)
-Our program converts the SMPL format into the Human3.6M joint index as follows:
+
+Our program converts the SMPL format into the Human3.6M joint index as follows: ./Diffusion-based Generation of Skeleton Sequences/`process.py and smpl_process.py`
