@@ -16,3 +16,6 @@ Skeleton Extraction: [PoseFormerV2](https://github.com/QitaoZhao/PoseFormerV2)
 [two-stage generation process](https://github.com/li-ronghui/LODGE)
 
 Our program converts the SMPL format into the Human3.6M joint index as follows: ./Diffusion-based Generation of Skeleton Sequences/`process.py and smpl_process.py`
+
+## Acknowledgment
+Our training code is mainly based on [RepNet-Pytorch](https://github.com/confifu/RepNet-Pytorch/tree/main). 
