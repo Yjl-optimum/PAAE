@@ -10,7 +10,9 @@ Click the link above to open the dataset on Google Drive.
 <img src="image/category.png" alt="Categories Image" width="300"/>
 <img src="image/Visual examples.png" alt="Example Image" width="600" height="auto"/>
 
-## Diffusion-based Generation of Skeleton Sequences
+## Skeleton Extraction and Diffusion-based Generation of Skeleton Sequences
+Skeleton Extraction: [PoseFormerV2](https://github.com/QitaoZhao/PoseFormerV2)
+
 [two-stage generation process](https://github.com/li-ronghui/LODGE)
 
 Our program converts the SMPL format into the Human3.6M joint index as follows: ./Diffusion-based Generation of Skeleton Sequences/`process.py and smpl_process.py`
