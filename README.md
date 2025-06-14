@@ -1,4 +1,8 @@
 # PAAE
+
+## Environment
+The code is developed under the following environment: [PoseFormerV2](https://github.com/QitaoZhao/PoseFormerV2)
+
 ## Rep-Fitness Dataset
 
 We propose a clear, human-centric repetitive fitness action test dataset, **Rep-Fitness**. The videos are sourced from YouTube and Keep fitness platforms, and the dataset contains 141 action categories. You can access the Rep-Fitness Dataset from Google Drive via the following link:
